@@ -1,4 +1,4 @@
-# Homework Assignment 1 - Cancer Risk in California’s East Bay
+# Cancer Risk in California’s East Bay
 
 ## Purpose of this project
 
