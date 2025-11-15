@@ -1,6 +1,5 @@
 ---
-title: "Homework Assignment 1"
-subtitle: "Cancer Risk in California’s East Bay"
+title: "Cancer Risk in California’s East Bay"
 author: "Jay Kim"
 date: "October 6, 2025"
 execute: 
